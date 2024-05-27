@@ -1,0 +1,1 @@
+If the string contained only whitespaces then this method will return true 

@@ -1,0 +1,1 @@
+If th          strnig cnotained       nly whitespaces then this method will return ture
